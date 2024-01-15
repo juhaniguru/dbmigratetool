@@ -1,0 +1,5 @@
+sqlalchemy
+psycopg2
+mysqlclient
+sqlacodegen-v2
+faker
